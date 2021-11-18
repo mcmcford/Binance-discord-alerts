@@ -1,5 +1,5 @@
 # Binance-discord-alerts
-a bot to alert you when the price of a pair drops below or rises above a price you pick
+a really basic bot to alert you when the price of a pair drops below or rises above a price you pick
 
 
 ### Example Commands:
